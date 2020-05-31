@@ -1,0 +1,79 @@
+id_course,name_course,course_credit,hr_lec,hr_practice,hr_lab,hr_total,is_preffered,done_status
+90901,Differential and Integral Calculus 1,5,4,2,0,6,1,1
+90905,Linear Algebra,5,4,2,0,6,1,1
+40137,ntroduction toIndustrial Engineering,3,2,2,0,4,1,1
+40114,computed  production,1,0,0,2,2,1,1
+40111,Introduction to Information Systems,2.5,2,1,0,3,1,1
+40107,Organizational Behavior,2,2,0,0,2,1,1
+40103,Introduction to Economics,3,2,2,0,4,1,1
+90902,Differential and Integral Calculus 2,5,4,2,0,6,1,1
+90937,Physics1,3.5,3,1,0,4,1,1
+90911,Introduction to Probability,3.5,3,1,0,4,1,1
+10824,Introduction toComputer Programming,3,2,2,0,4,1,1
+90926,Discrete Mathematics,5,4,2,0,6,1,1
+90939,Physics2,3.5,3,1,0,4,1,2
+90947,Physics Lab,1,0,0,2,2,1,2
+10806,Object Oriented Programming and Design,3,2,2,0,4,1,1
+40102,Databases and Data-Warehouse Systems,3.5,3,1,0,4,1,1
+40105,Statistical Inference,3.5,2,3,0,5,1,1
+40129,Engineering Economy,2.5,2,1,0,3,1,1
+40112,Introduction to OperationsResearch,3,2,2,0,4,1,1
+90914,Ordinary Differential Equations,2.5,2,1,0,3,1,1
+40104,Methods Engineering,4,3,2,0,5,1,2
+40132,Operations Management 1,3,2,2,0,4,1,2
+40130,Quality Assurance,2.5,2,1,0,3,1,2
+40113,Introduction to Experimental and  Industrial Psychology,2.5,2,1,0,3,1,2
+10336,Engineering Software Applications MATLAB,0.5,0,0,1,1,1,2
+90925,Numerical Analysis,3.5,3,1,,4,1,2
+10805,Algorithm and data structure,2.5,2,2,0,4,1,2
+80899,Selection Course (english),2,2,0,0,2,1,2
+40108,Project Management,3,2,0,2,4,1,0
+40120,Stochastic Models,3,2,2,0,4,1,0
+40135,Information Systems Analysis,3.5,2,3,0,5,1,0
+40133,Operations Management 2,3,2,2,0,4,1,0
+40225,Data Mining,2.5,2,1,0,3,1,0
+40219,Organizational Information Systems -ERP,3,2,2,0,4,1,0
+10230,Cyber- Computational Learning,2.5,2,1,0,3,1,0
+40123,Optimization Methods,3,2,2,0,4,1,0
+40106,Accounting and Costing,2.5,2,1,0,3,1,0
+40118,Simulation,3,2,0,2,4,1,0
+40223,Internet technologies for information systems,2.5,1,0,3,4,1,0
+40229,Statistical Methods in Data Analysis,2.5,2,1,0,3,1,0
+40208,System Dynamics Analysis,3,2,2,0,4,1,0
+40238,Python To Industrial Engineering,2.5,1,0,3,4,0,0
+10310,Internet technologies,2.5,1,0,3,4,0,0
+40220,Human-Computer interface,3,2,0,2,4,0,0
+40205,Business Intelligence,2.5,2,1,0,3,1,0
+40235,Data analysis using R,2.5,2,1,0,3,1,0
+40214,Product Data Management,2.5,2,1,0,3,0,0
+40231,Advanced Methods in planning and measuring performance,2.5,2,1,0,3,0,0
+40215,Game Theory,2.5,2,1,0,3,0,0
+80898,Selection Course,2,2,0,0,2,1,0
+40127,Total Quality,3,2,2,0,4,1,0
+40139,Human-Machine Integrated Systems,2.5,2,0,1,3,1,0
+40134,Introduction to Industry 4.0,3,2,0,2,4,1,0
+40401,Final Project,8,4,8,0,12,1,0
+40241,Real-time big data analytics using Python,1,1,0,3,4,1,0
+40232,System AnalysisImplementation,2.5,1,0,3,4,1,0
+10206,Information Theory,2.5,2,1,0,3,0,0
+40125,Knowledge Management and Intro To Congnitive Engineering,2,2,0,0,2,0,0
+40109,Into ro marketing,2,2,0,0,2,0,0
+40237,Human Resource Management,2.5,2,1,0,3,0,0
+40204,Behavioral Economics,2.5,2,1,0,3,0,0
+40213,Risk Management and Insurance,2.5,2,1,0,3,0,0
+40136,Logistics management and Supply Chains,3,2,2,0,4,1,0
+40124,Facilities Design,2,2,0,0,2,1,0
+40211,Decision Support Systems -basic planning and building,3,3,0,0,3,1,0
+40209,Introduction to Recommendation Systems,2,2,0,0,2,1,0
+40240,Deep Learning,2.5,2,1,0,3,1,0
+10237,Analysis Of Social Media,2.5,2,1,0,3,0,0
+10246,Optimization Methods and Distributed Production,2.5,2,1,0,3,0,0
+40221,Quality Engineering,2.5,2,1,0,3,0,0
+40222,CRM,1,2,2,0,4,0,0
+40239,Intro to Sustainability,2.5,2,1,0,3,0,0
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
